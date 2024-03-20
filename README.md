@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aleksandr
+- 👀 I’m interested in programming GUI applications in Python and microcontrollers in the C language
+- 🌱 I’m currently learning system programming on Linux
+- 📫 How to reach me: work.a.selivanov@gmail.com
+- ⚡ Another fact: I love grappling and collecting vinyl records
