@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Aleksandr
-- 👀 I’m interested in programming GUI applications in Python and microcontrollers in the C language
-- 🌱 I’m currently learning system programming on Linux
+- 👋 Hi, I’m Aleksandr Selivanov
+- 👀 I’m interested in programming GUI applications in Python and C++ (Qt)
+- 🌱 I’m currently learning Zephyr - realtime operation system for microcontrollers 
 - 📫 How to reach me: work.a.selivanov@gmail.com
 - ⚡ Another fact: I love grappling and collecting vinyl records
